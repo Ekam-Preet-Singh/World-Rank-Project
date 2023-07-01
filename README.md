@@ -4,7 +4,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 <div align="center">
-<img src="https://github.com/btahir/next-shopify-starter/blob/main/public/images/demo-store.gif">
+<img src="https://github.com/Ekam-Preet-Singh/World-Rank-Project/blob/main/public/Dashboard.png">
 </div>
 
 ## The Tech
